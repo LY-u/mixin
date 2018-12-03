@@ -1,0 +1,2 @@
+# mixin
+vue mixin example
